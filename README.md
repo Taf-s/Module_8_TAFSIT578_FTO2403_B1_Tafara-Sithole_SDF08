@@ -1,6 +1,6 @@
 # [SDF08] Build Your Portfolio MVP
 
-This is the readme file for the CodeSpace Pets Instagram project 
+This is the readme file for the MVP portfolio project 
 
 ## Description
 
@@ -8,13 +8,13 @@ The purpose of the project was to code along with the scrimba project, in order 
 
 ## Design Choices 
 
-Seeing as though we had the UX/UI desing provided, there wasnt much design choices i needed to make.
+Seeing as though we had the UX/UI design provided, there wasnt much design choices I needed to make.
 
-The few choices i did make had to do with the stylng of the buttons, as i went with my own styling and added some finness. 
+The few choices I did make had to do with the styling of the buttons, as I went with my own styling and added some finness. 
 
 ## Features 
 
-Overall i was quite pleased with the way the MVP porfolio came out, the features i am most proud of are: 
+Overall I was quite pleased with the way the MVP portfolio came out, the features I am most proud of are: 
 
 * the burger menu, learning how to do that and making it work.
 * the styling on my button. 
