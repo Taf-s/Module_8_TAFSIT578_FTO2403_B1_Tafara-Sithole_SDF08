@@ -25,3 +25,5 @@ Overall I was quite pleased with the way the MVP portfolio came out, the feature
 * Javascript to create the functionality for my burger menu
 
 ## Loom Video Link 
+
+https://www.loom.com/share/af5fdc59c1a245298829a3d48b2887fe?sid=1ad12105-6fa1-4894-b2b0-0d5b3b14b322
